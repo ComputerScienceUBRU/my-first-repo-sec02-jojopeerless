@@ -1,3 +1,5 @@
+#อาหารที่ชอบ  
+whisky
 # Student ID
 57122420334
 # Name
