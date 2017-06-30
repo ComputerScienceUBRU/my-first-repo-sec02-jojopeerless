@@ -1,5 +1,5 @@
 # อาหารที่ชอบ  
-whisky
+whisky, koy
 # Student ID
 57122420334
 # Name
